@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda
+=======
+manager: Kenneth
+>>>>>>> 3e26fca (Edit Tigers members)
 
 coach: Grace
 
@@ -8,3 +12,4 @@ members:
 - Linda
 - William
 - David
+- Tyler
