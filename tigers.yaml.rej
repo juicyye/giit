@@ -1,0 +1,8 @@
+diff a/tigers.yaml b/tigers.yaml	(rejected hunks)
+@@ -1,6 +1,5 @@
+ team: Tigers
+ 
+-manager: Kenneth
+ manager: Ruth
+ 
+ coach: Grace
