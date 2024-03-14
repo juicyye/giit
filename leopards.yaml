@@ -1,7 +1,12 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Nora
 coach: Lupi
+=======
+manager: Dooli
+coach: Nicholas
+>>>>>>> 7273270 (Edit Leopards manager)
 
 members:
 - Linda
